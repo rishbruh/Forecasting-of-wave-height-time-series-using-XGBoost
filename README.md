@@ -1,4 +1,4 @@
-# Forecasting-of-wave-height-time-series-using-XGBoost
+# Forecasting of wave height time series using XGBoost
 
 We have data taken from a single scientific wave buoy that measures wave height, time between waves, wind direction and sea temperatures. The objective is to use historical data from the years (2017-2018) in order to predict wave heights for the year 2019, thus the wave height is our target.
 
